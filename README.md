@@ -12,12 +12,11 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 
 ## INSTRUCCIONES DE INSTALACION:
 
-1.INSTALA EL JUEGO ORIGINAL
-2.VE A LA CARPETA GAME
-3.COPIA Y PEGA TODOS LOS ARCHIVOS DE ESTA CARPETA Y PEGALOS EN LA CARPETA "game" DEL JUEGO ORIGINAL
+1. INSTALA EL JUEGO ORIGINAL
+2. VE A LA CARPETA GAME
+3. COPIA Y PEGA TODOS LOS ARCHIVOS DE ESTA CARPETA Y PEGALOS EN LA CARPETA "game" DEL JUEGO ORIGINAL
+4. ¡DISFRUTA EL JUEGO!.
 
-4.DISFRUTA EL JUEGO!.
-
-link de la traducción para android: https://github.com/Bunuelos-Asociados/TheKidAtTheBack-ES/releases/tag/NovelaVisual
+Link de la traducción para Android: https://github.com/Bunuelos-Asociados/TheKidAtTheBack-ES/releases/tag/NovelaVisual
 
 Versión 1.0
